@@ -1,0 +1,2 @@
+# privacyPolicies
+4andApp
